@@ -54,7 +54,7 @@ The table below lists the parts I used, with the purchase links and prices I had
 | [43 mm rubber wheels](https://robocraze.com/products/43mm-rubber-wheel-tyre-for-n20-gear-motor) | 4 | ₹40 | ₹160 |
 | [18650 Li-ion batteries](https://quartzcomponents.com/products/18650-li-ion-rechargeable-battery) | 2 | ₹45 | ₹90 |
 | [2-cell 18650 battery holder](https://robu.in/product/2-x-18650-cell-box-without-cover) | 1 | ₹19 | ₹19 |
-| [3.3V 2A buck converter](https://robocraze.com/products/7semi-dc-buck-converter-breakout-3-3v-2a-out-ap62301) | 1 | ₹112 | ₹112 |
+| [lm2596 buck converter](https://quartzcomponents.com/products/lm2596-buck-converter-power-supply-module?variant=31897931612295&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4X7z5ek0SVaShnTpm_ZRRFvbomdj-Kl3XGfxBcq98ek3s3BN_TFUnA) | 1 | ₹112 | ₹112 |
 | Custom-designed chassis and printed parts | 1 set | — | — |
 | Wires and connectors | As required | — | — |
 | **Total for priced items** | | | **₹2,180** |
