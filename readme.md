@@ -58,3 +58,5 @@ The table below lists the parts I used, with the purchase links and prices I had
 | Custom-designed chassis and printed parts | 1 set | — | — |
 | Wires and connectors | As required | — | — |
 | **Total for priced items** | | | **₹2,180** |
+
+working demo: [Youtube](https://youtube.com/shorts/BL0SvfMwOaw?feature=share)
